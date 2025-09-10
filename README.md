@@ -1,2 +1,2 @@
 # emailServer2
-aktulle Variante email scheduling server
+aktuelle Variante email scheduling server
