@@ -5,13 +5,12 @@ import requests
 email = Email(
     id = 0,
     name = "Badehose",
-    description = "habe ich schon bekommen von Dir.",
+    description = "Habe ich schon bekommen von Dir.",
     price = 1.23,
     url= "http://www.google.de",
     user= "Jan-Torsten",
     mailtext= "Dies sind ein paar Testmails.",
-    #mailaddress = "milde@hs-fulda.de"
-    mailaddress = "Claudia.Milde@web.de"
+    mailaddress = "SEND@TO.ME"
     )
 
 print(email)
